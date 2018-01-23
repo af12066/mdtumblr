@@ -23,7 +23,7 @@ Tumblr の API キーを以下の環境変数に設定してください:
 
 ```bash
 $ mdtumblr ./README.md
-$ mdtumblr -t PostTitle -u host-name
+$ mdtumblr -t PostTitle -u host-name ./README.md
 ```
 
 ## Option
