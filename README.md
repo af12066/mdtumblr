@@ -2,6 +2,12 @@
 
 Markdown で書かれたファイルを Tumblr に投稿するだけの CLI ツール
 
+## インストール
+
+```bash
+$ go install github.com/af12066/mdtumblr
+```
+
 ## 使い方
 
 ### API キーの設定
